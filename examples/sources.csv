@@ -1,0 +1,4 @@
+platform,source_url,title,content,notes,added_at
+X,https://example.org/guide?utm_source=x,创作者如何整理收藏夹,作者展示了按视频开头和结构给收藏内容做笔记的方法,示例数据仅用于演示，真实发布请换成自己读过的来源,2026-11-07
+YouTube,https://example.org/video/1,一条60秒视频的剪辑拆解,整理素材后先出分镜再剪辑，人工确认是关键步骤,本行不是经过核验的真实视频,2026-11-07
+Blog,https://example.org/notes/ai,把重复搜索换成事件通知,文章提到减少无变化轮询，降低重复检查次数,需要核实实际平台支持能力,2026-11-07
